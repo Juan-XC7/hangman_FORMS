@@ -1,0 +1,9 @@
+C:\Users\juanp\source\repos\hungman\bin\Debug\hungman.exe
+C:\Users\juanp\source\repos\hungman\bin\Debug\hungman.pdb
+C:\Users\juanp\source\repos\hungman\obj\Debug\hungman.csproj.AssemblyReference.cache
+C:\Users\juanp\source\repos\hungman\obj\Debug\hungman.Form1.resources
+C:\Users\juanp\source\repos\hungman\obj\Debug\hungman.Properties.Resources.resources
+C:\Users\juanp\source\repos\hungman\obj\Debug\hungman.csproj.GenerateResource.cache
+C:\Users\juanp\source\repos\hungman\obj\Debug\hungman.csproj.CoreCompileInputs.cache
+C:\Users\juanp\source\repos\hungman\obj\Debug\hungman.exe
+C:\Users\juanp\source\repos\hungman\obj\Debug\hungman.pdb
